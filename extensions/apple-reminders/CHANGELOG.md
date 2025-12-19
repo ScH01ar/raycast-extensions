@@ -1,6 +1,6 @@
 # Apple Reminders Changelog
 
-## [Simplify AI schema for locations] - 2025-12-18
+## [Simplify AI schema for locations] - {PR_MERGE_DATE}
 
 - Constrain location icons to a small string enum and map back to Raycast icons to reduce AI tool schema branching (Gemini 2.5 fix)
 - Tighten proximity/icon enums for the location tool while keeping legacy values falling back to default icons
